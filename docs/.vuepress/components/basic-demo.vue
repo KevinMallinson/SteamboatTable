@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import SteamboatTable from '../../src/SteamboatTable'
+import SteamboatTable from '../../../src/SteamboatTable'
 
 export default {
     components: {
